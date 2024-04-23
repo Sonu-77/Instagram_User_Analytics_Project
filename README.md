@@ -1,5 +1,5 @@
 # Instagram User Analytics Project
-#### The project amis to find and give the investor the users involvement rate and how mush better the application is functioning by revoming the bots and fake accounts.
+#### The project amis to find and give the investor the users involvement rate and how much better the application is functioning by removing the bots and fake accounts.
 
 
 # Table Of Content
