@@ -1,5 +1,5 @@
 # Instagram User Analytics Project
-#### The project amis to find and give the investor the users involvement rate and how much better the application is functioning by removing the bots and fake accounts.
+#### The project aims to find and give the investor the users involvement rate and how much better the application is functioning by removing the bots and fake accounts.
 
 
 # Table Of Content
@@ -7,6 +7,7 @@
 - [Data Process](#data-cleaning-step-used-mysql)
 - [Performed Analysis](#performed-the-analysis-on-the-task-using-mysql-workbench)
 - [Snaps Of Querys](#snaps-of-querys)
+- [Entire Preview](#entire-preview)
 - [Result](#results-and-findings)
 - [Conclusion](#conclusion)
 
@@ -42,6 +43,11 @@
 
 # Snaps Of Querys 
 <img width="927" alt="Screenshot 2024-04-23 at 15 57 14" src="https://github.com/Sonu-77/Instagram-User-Analytics-Project/assets/166591588/fabca5fd-07f5-4bb1-a12e-9f0aee6562ff"><img width="580" alt="Screenshot 2024-04-23 at 15 58 51" src="https://github.com/Sonu-77/Instagram-User-Analytics-Project/assets/166591588/c9b5fc85-f805-434d-a23f-d39751172bcc">
+
+
+## Entire Preview
+- [Click Link](https://github.com/Sonu-77/Instagram-User-Analytics-Project/blob/main/Instagram%20User%20Analytics%20Project%20%20%20%20.pdf)
+
 
 # Results and Findings
 - Loyal Users : '80', 'Darby_Herzog',    '2016-05-06 00:14:21'
